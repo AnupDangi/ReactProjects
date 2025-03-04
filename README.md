@@ -37,7 +37,7 @@ Make sure you have the following installed:
    ```
 
 5. **Open the Application**
-   - The app should now be running on `http://localhost:5173/` (if using Vite) or `http://localhost:3000/` (if using Create React App).
+   - The app should now be running on `http://localhost:5173/` (use Vite)
 
 ## Project List
 

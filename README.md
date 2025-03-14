@@ -5,6 +5,19 @@ Outputs of the project
 ## Lottery Ticket
 ![image](https://github.com/user-attachments/assets/30e1cffd-44a3-47fb-85a7-d9a49810d907)
 
+## Accordian 
+![image](https://github.com/user-attachments/assets/dd77b547-7ef2-4dbb-beb1-c59ba96fe96f)
+
+## RandomColorGenerator
+![image](https://github.com/user-attachments/assets/98b5635b-b250-4d64-9753-ecbff5b505a5)
+
+## ImageSlider
+![image](https://github.com/user-attachments/assets/b2ba722b-fade-4a04-97f4-ac93a0f3c8c7)
+
+## Star Rating
+![image](https://github.com/user-attachments/assets/4a5aca07-1247-4be2-9f1c-86afb2295771)
+
+
 ## Getting Started
 
 Follow these steps to clone and run the project on your local machine.

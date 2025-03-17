@@ -3,7 +3,7 @@
 This repository contains various React projects I am working on to practice and master frontend development.
 Outputs of the project
 
-## Reference Project from : https://youtu.be/5ZdHfJVAY-s?si=7h-N5LYHFhGLFEXQ
+## Reference YT Channel : https://youtu.be/5ZdHfJVAY-s?si=7h-N5LYHFhGLFEXQ
 ## Lottery Ticket
 ![image](https://github.com/user-attachments/assets/30e1cffd-44a3-47fb-85a7-d9a49810d907)
 

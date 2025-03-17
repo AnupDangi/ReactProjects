@@ -26,6 +26,13 @@ Outputs of the project
 ## QRCodeGenerator
 ![output](https://github.com/user-attachments/assets/7816fdfe-c2cc-453a-a61d-ea6e0cde1433)
 
+## Theme Switch
+![output](https://github.com/user-attachments/assets/d293e06d-884d-4d88-b79b-41ed58d1f6ab)
+
+## Scroll Indicator
+![output](https://github.com/user-attachments/assets/b9386e28-cc18-414b-8fb2-01fd2a74df34)
+
+
 
 ## Getting Started
 

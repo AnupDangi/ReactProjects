@@ -1,0 +1,55 @@
+.tic-tac-toe-container {
+    display: grid;
+    grid-template-columns: repeat(3, 100px); 
+    gap: 5px; /* Adds spacing between squares */
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.square {
+    border: 3px solid #ff4d4d; /* Red border for a striking look */
+    background-color: #fff;
+    height: 100px;
+    width: 100px;
+    padding: 0;
+    font-size: 40px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background 0.3s ease, transform 0.2s;
+}
+
+.square:hover {
+    background-color: #ffcccc; /* Light red on hover */
+    transform: scale(1.05); /* Slight pop-out effect */
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.restart-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s;
+}
+
+.restart-button:hover {
+    background-color: #cc0000;
+    transform: scale(1.1);
+}

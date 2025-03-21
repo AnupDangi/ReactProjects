@@ -1,0 +1,110 @@
+/* Main container styling */
+.github-profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Input and button container */
+.input-wrapper {
+    display: flex;
+    gap: 10px;
+    background: #fff;
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Input field */
+.input-wrapper input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    width: 250px;
+}
+
+/* Search button */
+.input-wrapper button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.input-wrapper button:hover {
+    background: #0056b3;
+}
+
+/* Loading text */
+h1 {
+    font-size: 20px;
+    color: #333;
+}
+
+/* User details card */
+.UserDetails {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Avatar image */
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: 3px solid #007bff;
+}
+
+/* Profile name */
+.UserDetails a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.UserDetails a:hover {
+    text-decoration: underline;
+}
+
+/* User info */
+.UserDetails p {
+    color: #555;
+    font-size: 14px;
+}
+
+/* Stats container */
+.UserDetails div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 15px;
+}
+
+/* Individual stats */
+.UserDetails div p {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px;
+}

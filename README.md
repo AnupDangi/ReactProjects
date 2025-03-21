@@ -34,7 +34,22 @@ Outputs of the project
 ## Scroll Indicator
 ![output](https://github.com/user-attachments/assets/b9386e28-cc18-414b-8fb2-01fd2a74df34)
 
+## Auto Complete
+![output](https://github.com/user-attachments/assets/37b8cc1d-53b7-4499-b402-d86e94a61802)
 
+## Custom_Modal
+![output](https://github.com/user-attachments/assets/d1669090-d660-4c25-a763-093b4d887ec9)
+
+## Customtabs
+![output](https://github.com/user-attachments/assets/f1a465aa-98b4-4ca8-bb6d-125bfa0e08e4)
+
+
+## GithubProfileFinder
+![output](https://github.com/user-attachments/assets/cb0b1f6f-be58-4112-bab5-9b4cbc8109e9)
+
+
+## Weather App
+![output](https://github.com/user-attachments/assets/c5b187fe-e76d-4dde-9463-7482d5e9f393)
 
 ## Getting Started
 

@@ -51,6 +51,13 @@ Outputs of the project
 ## Weather App
 ![output](https://github.com/user-attachments/assets/c5b187fe-e76d-4dde-9463-7482d5e9f393)
 
+## Food Recipe
+![homepage](https://github.com/user-attachments/assets/14fd93a5-b729-40b8-a73e-1a326599bf64)
+![ViewRecipe](https://github.com/user-attachments/assets/dc8313db-0586-498c-b2f6-a31f50e0159d)
+![favorites](https://github.com/user-attachments/assets/7dbcafc2-6527-4724-bbcc-2c7ad25ada0f)
+
+
+
 ## Getting Started
 
 Follow these steps to clone and run the project on your local machine.

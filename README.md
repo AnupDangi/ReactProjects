@@ -56,6 +56,11 @@ Outputs of the project
 ![ViewRecipe](https://github.com/user-attachments/assets/dc8313db-0586-498c-b2f6-a31f50e0159d)
 ![favorites](https://github.com/user-attachments/assets/7dbcafc2-6527-4724-bbcc-2c7ad25ada0f)
 
+## Shopping Cart
+![output1](https://github.com/user-attachments/assets/a212f919-bfef-4bb1-98cd-2d2ceb507062)
+![output2](https://github.com/user-attachments/assets/fdf18ae8-5af2-497f-91c7-93f0ea1e4cc2)
+
+
 
 
 ## Getting Started

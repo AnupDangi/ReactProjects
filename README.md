@@ -62,7 +62,7 @@ Outputs of the project
 
 ## Simple Blog Website(React,Node,Express,MongoDB Atlas)
 ![output](https://github.com/user-attachments/assets/62c85df9-3c6d-4fcb-ab2e-04a2fbc087dd)
-![Uploading image.png…]()
+![output1](https://github.com/user-attachments/assets/0de994a6-a2d7-4bb0-9e48-40c764e96af6)
 
 
 ## Getting Started

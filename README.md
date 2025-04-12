@@ -60,7 +60,9 @@ Outputs of the project
 ![output1](https://github.com/user-attachments/assets/a212f919-bfef-4bb1-98cd-2d2ceb507062)
 ![output2](https://github.com/user-attachments/assets/fdf18ae8-5af2-497f-91c7-93f0ea1e4cc2)
 
-
+## Simple Blog Website(React,Node,Express,MongoDB Atlas)
+![output](https://github.com/user-attachments/assets/62c85df9-3c6d-4fcb-ab2e-04a2fbc087dd)
+![Uploading image.png…]()
 
 
 ## Getting Started
